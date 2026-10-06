@@ -1,0 +1,1 @@
+The uploaded Safarnama Ventures logo is stored as assets/logo.png. Destination photography is loaded from direct Wikimedia Commons upload URLs and is credited on credits.html.
